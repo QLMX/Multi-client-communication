@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1490891013 source:d:\研究生\任务\17.01.13 嵌入式网络通信\上位机\client to mutilserver\client\client\client.cpp
+	"client.h"
+
+1490891032 d:\研究生\任务\17.01.13 嵌入式网络通信\上位机\client to mutilserver\client\client\client.h
+	<iostream>
+	<winsock2.h>
+	<process.h>
+
+1490891044 source:d:\研究生\任务\17.01.13 嵌入式网络通信\上位机\client to mutilserver\client\client\main.cpp
+	"client.h"
+
+1491446112 source:d:\研究生\任务\17.01.13 嵌入式网络通信\上位机\program\client to mutilserver\client\client\client.cpp
+	"client.h"
+
+1491446124 d:\研究生\任务\17.01.13 嵌入式网络通信\上位机\program\client to mutilserver\client\client\client.h
+	<iostream>
+	<winsock2.h>
+	<process.h>
+
+1491446096 source:d:\研究生\任务\17.01.13 嵌入式网络通信\上位机\program\client to mutilserver\client\client\main.cpp
+	<iostream>
+	"client.h"
+
+1491446112 source:d:\研究生\任务\17.01.13 嵌入式网络通信\上位机\program\client to mutilserver\project1\client\client\client.cpp
+	"client.h"
+
+1491446124 d:\研究生\任务\17.01.13 嵌入式网络通信\上位机\program\client to mutilserver\project1\client\client\client.h
+	<iostream>
+	<winsock2.h>
+	<process.h>
+
+1491446096 source:d:\研究生\任务\17.01.13 嵌入式网络通信\上位机\program\client to mutilserver\project1\client\client\main.cpp
+	<iostream>
+	"client.h"
+
+1491446112 source:d:\研究生\任务\17.01.13 嵌入式网络通信\上位机\program\client to mutilserver\project2\client\client\client.cpp
+	"client.h"
+
+1491446124 d:\研究生\任务\17.01.13 嵌入式网络通信\上位机\program\client to mutilserver\project2\client\client\client.h
+	<iostream>
+	<winsock2.h>
+	<process.h>
+
+1491446096 source:d:\研究生\任务\17.01.13 嵌入式网络通信\上位机\program\client to mutilserver\project2\client\client\main.cpp
+	<iostream>
+	"client.h"
+
+1491446112 source:d:\研究生\任务\17.01.13 嵌入式网络通信\上位机\program\client to mutilserver\project3\client\client\client.cpp
+	"client.h"
+
+1491446124 d:\研究生\任务\17.01.13 嵌入式网络通信\上位机\program\client to mutilserver\project3\client\client\client.h
+	<iostream>
+	<winsock2.h>
+	<process.h>
+
+1491446096 source:d:\研究生\任务\17.01.13 嵌入式网络通信\上位机\program\client to mutilserver\project3\client\client\main.cpp
+	<iostream>
+	"client.h"
+
+1492695100 source:d:\研究生\任务\17.01.13 嵌入式网络通信\上位机\program\client to mutilserver\project3\client\client.cpp
+	"client.h"
+
+1492570507 d:\研究生\任务\17.01.13 嵌入式网络通信\上位机\program\client to mutilserver\project3\client\client.h
+	<iostream>
+	<winsock2.h>
+	<process.h>
+
+1492617979 source:d:\研究生\任务\17.01.13 嵌入式网络通信\上位机\program\client to mutilserver\project3\client\main.cpp
+	<iostream>
+	"client.h"
+
+1492695100 source:d:\研究生\任务\17.01.13 嵌入式网络通信\上位机\program\client to mutilserver\project4\client\client.cpp
+	"client.h"
+
+1492570507 d:\研究生\任务\17.01.13 嵌入式网络通信\上位机\program\client to mutilserver\project4\client\client.h
+	<iostream>
+	<winsock2.h>
+	<process.h>
+
+1492617979 source:d:\研究生\任务\17.01.13 嵌入式网络通信\上位机\program\client to mutilserver\project4\client\main.cpp
+	<iostream>
+	"client.h"
+
