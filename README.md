@@ -1,5 +1,5 @@
 ### Description:<br>
-  * using C++ language<br>
+  * using C++ language<br>
   * compilation environment is code::blocks<br>
   * uses nonblocking sockets<br>
 ### Function:
