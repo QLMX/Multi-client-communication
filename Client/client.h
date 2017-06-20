@@ -8,8 +8,8 @@
 using namespace std;
 
 //宏定义
-#define	SERVERIP			"192.168.109.1"		//服务器IP
-#define	SERVERPORT			5555			//服务器TCP端口
+#define	SERVERIP			"192.168.209.1"		//服务器IP
+#define	SERVERPORT			6666			//服务器TCP端口
 #define	MAX_NUM_BUF			60				//缓冲区的最大长度
 
 //函数声明

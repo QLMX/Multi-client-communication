@@ -111,3 +111,30 @@
 	"server.h"
 	"sclient.h"
 
+1496460381 source:e:\github\multi-client-communication\server\server\main.cpp
+	"server.h"
+
+1497491095 e:\github\multi-client-communication\server\server\server.h
+	<iostream>
+	<winsock2.h>
+	<winbase.h>
+	<vector>
+	<map>
+	<string>
+	<process.h>
+	"sclient.h"
+
+1496460381 e:\github\multi-client-communication\server\server\sclient.h
+	<winsock2.h>
+	<iostream>
+
+1496460381 source:e:\github\multi-client-communication\server\server\sclient.cpp
+	<process.h>
+	<stdio.h>
+	"sclient.h"
+	"server.h"
+
+1496460381 source:e:\github\multi-client-communication\server\server\server.cpp
+	"server.h"
+	"sclient.h"
+

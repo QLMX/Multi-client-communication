@@ -82,3 +82,15 @@
 	<iostream>
 	"client.h"
 
+1496460381 source:e:\github\multi-client-communication\client\client.cpp
+	"client.h"
+
+1497965916 e:\github\multi-client-communication\client\client.h
+	<iostream>
+	<winsock2.h>
+	<process.h>
+
+1496460381 source:e:\github\multi-client-communication\client\main.cpp
+	<iostream>
+	"client.h"
+

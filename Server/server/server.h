@@ -19,7 +19,7 @@ using namespace std;
 #define START_SERVER                1       //显示开始输入提示
 #define INPUT_DATA                  2       //提示输入什么数据
 
-#define SERVERPORT			5555			//服务器TCP端口
+#define SERVERPORT			6666			//服务器TCP端口
 #define CONN_NUM            10              //连接客户端数量
 #define TIMEFOR_THREAD_SLEEP		500		//等待客户端请求线程睡眠时间
 #define TIMEFOR_THREAD_HELP			1500	//清理资源线程退出时间
