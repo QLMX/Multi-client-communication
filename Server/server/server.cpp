@@ -214,7 +214,7 @@ DWORD __stdcall cleanThread(void* pParam)
 			CClient *pClient = (CClient*)*iter;
 			if (!pClient->IsConning())			//客户端线程已经退出
 			{
-				clientvector.erase(iter);	//删除节点
+				iter = clientvector.erase(iter);	//删除节点
 				delete pClient;				//释放内存
 				pClient = NULL;
 			}else{
